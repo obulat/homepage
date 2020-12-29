@@ -1,0 +1,73 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "English",
+      "text": "Fen'in İngilizcesi nedir?",
+      "wrong_answers": [
+        "English",
+        "Math",
+        "Turkish",
+        "PE"
+      ],
+      "correct_answer": "Science"
+    },
+    {
+      "id": 2,
+      "topic": "English",
+      "text": "Türkçe'nin İngilizcesi nedir?",
+      "wrong_answers": [
+        "English",
+        "Science",
+        "Math",
+        "PE"
+      ],
+      "correct_answer": "Turkish"
+    },
+    {
+      "id": 3,
+      "topic": "English",
+      "text": "İngilizce'nin İngilizcesi nedir?",
+      "wrong_answers": [
+        "Math",
+        "Turkish",
+        "PE",
+        "Science"
+      ],
+      "correct_answer": "English"
+    },
+    {
+      "id": 4,
+      "topic": "English",
+      "text": "Beden Eğitim'in İngilizcesi nedir?",
+      "wrong_answers": [
+        "English",
+        "Math",
+        "Turkish",
+        "Science"
+      ],
+      "correct_answer": "PE"
+    },
+    {
+      "id": 5,
+      "topic": "English",
+      "text": "Matematik'in İngilizcesi nedir?",
+      "wrong_answers": [
+        "English",
+        "Science",
+        "Turkish",
+        "PE"
+      ],
+      "correct_answer": "Math"
+    }
+  ],
+  "quizes": [
+    {
+      "id": 1,
+      "questions": [1, 2, 3, 4, 5]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
