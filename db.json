@@ -1,6 +1,9 @@
 {
-  "questions": [
+  "quizes": [
     {
+      "id": 1,
+      "questions": [
+      {
       "id": 1,
       "topic": "English",
       "text": "Fen'in İngilizcesi nedir?",
@@ -60,11 +63,7 @@
       ],
       "correct_answer": "Math"
     }
-  ],
-  "quizes": [
-    {
-      "id": 1,
-      "questions": [1, 2, 3, 4, 5]
+      ]
     }
   ],
   "profile": {
