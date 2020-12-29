@@ -1,0 +1,19 @@
+{
+  "Quiz": {
+    "title": "string",
+    "topic": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date",
+    "questions": "Question[]"
+  },
+  "Question": {
+    "body": "string",
+    "question_id": "int",
+    "answers": Answer[]"
+  },
+  "Answer": {
+  "text": "string",
+  "question_id": "int"
+  }
+}
