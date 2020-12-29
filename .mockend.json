@@ -10,10 +10,10 @@
   "Question": {
     "body": "string",
     "question_id": "int",
-    "answers": Answer[]"
+    "answers": "Answer[]"
   },
   "Answer": {
-  "text": "string",
-  "question_id": "int"
+    "text": "string",
+    "question_id": "int"
   }
 }
